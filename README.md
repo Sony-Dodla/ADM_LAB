@@ -7,3 +7,5 @@
 #[lab_06](https://github.com/Sony-Dodla/ADM_LAB/blob/main/lab_06.ipynb)<br>
 #[lab_06(2)](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_06(2).ipynb)<br>
 #[lab_07](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_lab_07.ipynb)<br>.
+#[lab_08](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_08.ipynb)<br>
+#[lab_09](
