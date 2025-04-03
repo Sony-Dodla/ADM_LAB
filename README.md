@@ -9,3 +9,4 @@
 #[lab_07](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_lab_07.ipynb)<br>.
 #[lab_08](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_08.ipynb)<br>
 #[lab_09](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_09.ipynb)<br>
+#[LAB_10(1)](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_10(1).ipynb)<br>
