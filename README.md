@@ -12,4 +12,4 @@
 #[LAB_10(1)](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_10(1).ipynb)<br>
 #[LAB_10(2)](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_10(2).ipynb)<br>
 #[LAB_11(2)](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_11(2).ipynb)<br>
-#[LAB_11](
+#[LAB_11](https://github.com/Sony-Dodla/ADM_LAB/blob/main/ADM_LAB_11.ipynb)<br>
